@@ -3,6 +3,8 @@
 
 /// asdasd
 
+
+
 var ShipEntity = function (id, col, mass, width, height) {
     this.id = id;
     this.lassos = []; // when a bullet hits an entity creates a lasso
