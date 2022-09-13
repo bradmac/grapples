@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            #set( $title = false )
+            #set( $title = $templater.mergeTitles( $template.title, $page.title) )
+            #if( $title )
+            $title
+            #else
+            Untitled page
+            #end
+        </title>
+        #parse("/theme/theme-macros.html")
+    </head>
+
+    <!-- body vars defined in theme-macros.html -->
+    <body style="$!bodyCssBgColor $!bodyCssBgImg" class="is${templater.getClassName($page)} $!templater.bodyClasses">
+
+
+
+        #renderBodyStart
+
+        <div class="main-content" id="maincontentContainer">
+            $themeTemplate.body
+        </div>
+        <!-- /container -->
+
+        #renderEndOfPage
+    </body>
+</html>

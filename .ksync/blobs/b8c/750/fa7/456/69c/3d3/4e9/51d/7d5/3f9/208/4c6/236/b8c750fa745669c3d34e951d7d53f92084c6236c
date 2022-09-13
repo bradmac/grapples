@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+		<title>test1</title>
+		<link rel="template" href="theme/page" />
+		<script type="data/parameter" title="itemType" ></script>
+		<script type="data/parameter" title="category" ></script>
+		<script type="data/parameter" title="tags" ></script>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+	</head>
+	<body>
+		<div class="container-bg background-for">
+			<div class="container-layout">
+				<div class="container-content-wrapper">
+					<div class="row">
+						<div class="col-sm-12 ui-resizable" data-type="container-content">
+							<div data-video-autostart="false" data-video-src="/assets/fdbd1426-376e-4c5b-9810-0a3beab7f160" data-video-progress="true" data-video-ratio="4:3" data-video-controls="true" data-video-border-color="#000000" data-video-border-style="" data-video-border="" data-video-repeat="false" data-video-border-width="" data-type="component-video">
+								<div data-dynamic-href="_components/video" id="keditor-ui-15989983144907896095009"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

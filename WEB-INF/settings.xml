@@ -1,0 +1,682 @@
+<settings>
+  <app appInstanceId="jquery-ui-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.12.1.4</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-timeago-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.5.3.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="formBuilder" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.1.3</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-msg-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>0.3.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-placeholder-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.3.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="keymap-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="js-beautify-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.6.12</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="stupidtable-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="picturefill-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="admin" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="userApp" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="countries-states-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-reloadFragment-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.3</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="dynamicCss" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="content" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="scheduler" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="KademiGettingStarted" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="stream" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="subscription" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="aws" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <null/>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="ace-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.4.8.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-dropdown-hover-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-upcrop-image-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="mselect-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.2.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="mtree-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="mupload-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="Reporting" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string></string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="raphael-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.2.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="morris-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="KDashboard" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="userDashboardApp" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string></string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-jcrop-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>0.9.12</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jqte-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.4.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="select2-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.0.3.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="animate-css-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.5.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="inputmask-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.3.11</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-lightbox-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>0.5.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="media-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-iconpicker-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.7.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="dropzone-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.3.0.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="intl-tel-input-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>16.1.3</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-assetFinder-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="uri-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.15.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="datetimepicker-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.17.47.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jwplayer-lib" enabled="false">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>6.12.0.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-pjax-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.3</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="k-theme" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.4.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="typeahead-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.2.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="admin-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>8.4.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="amcharts-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.10.8</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-base" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.9.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-colorpicker-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.5.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-select-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.12.4.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="bootstrap-sweetalert-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="ckeditor-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.5.6.43</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="contentEditor-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.2.9</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="content-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.9.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="cropperjs-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="d3-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.4.1.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="daterangepicker-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.0.11.4</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="edmEditor-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.4.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="entityFinder-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.4</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="fontawesome-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>5.13.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="handlebars-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>4.7.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-cookie-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.4.1.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-domFinder-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-forms-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.5.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-fullscreen-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>0.6.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-kselector-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.0</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.2.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="jquery-user-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="kcode-selector-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.4</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="keditor-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.7.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="KReporting" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.2.9</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="KToolbar" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.2.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="materialize-carousel-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="moment-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.26.1</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="nanoid-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.1.2</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="nvd3-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.8.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="pagedatepicker-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.7</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="phoneify-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.1.5</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="photoeditor-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>1.0.6</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="reporting-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>2.6.4</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="user-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>3.1.8</string>
+      </entry>
+    </settings>
+  </app>
+  <app appInstanceId="videojs-lib" enabled="true">
+    <settings>
+      <entry>
+        <string>version</string>
+        <string>7.8.2.0</string>
+      </entry>
+    </settings>
+  </app>
+</settings>
