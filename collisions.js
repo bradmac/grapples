@@ -1,5 +1,7 @@
 
 
+
+
 /* global collisionRegionsMap, entities, COLLISION_REGION_SCALE_FACTOR */
 
 function checkCollisions() {
